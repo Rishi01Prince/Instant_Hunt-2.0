@@ -16,8 +16,8 @@ export default function Login() {
     }
 
     // Backend Verification
-    // const response = await fetch('https://instant-hunt-backend.onrender.com/api/loginuser', {
-    const response = await fetch('http://localhost:5000/api/loginuser', {
+    const response = await fetch('https://instant-hunt-2-0.onrender.com/api/loginuser', {
+    // const response = await fetch('http://localhost:5000/api/loginuser', {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',

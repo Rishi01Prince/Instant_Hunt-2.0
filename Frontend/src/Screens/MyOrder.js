@@ -9,8 +9,8 @@ export default function MyOrder() {
 
 
     try {
-      // const response = await fetch("https://instant-hunt-backend.onrender.com/api/myorderData", {
-      const response = await fetch("http://localhost:5000/api/myorderData", {
+      const response = await fetch("https://instant-hunt-2-0.onrender.com/api/myorderData", {
+      // const response = await fetch("http://localhost:5000/api/myorderData", {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json'
