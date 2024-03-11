@@ -22,7 +22,7 @@ To get a local copy up and running, follow these simple steps:
 
 1. **Clone the repository:**
    ```
-   git clone [https://github.com/your-username/instant-hunt.git](https://github.com/Rishi01Prince/Instant_Hunt-2.0.git)
+   git clone : https://github.com/your-username/instant-hunt.git
    ```
 
 2. **Navigate to the project directory:**
