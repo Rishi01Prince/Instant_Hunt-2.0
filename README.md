@@ -20,26 +20,25 @@ Instant Hunt is a user-friendly web application designed to facilitate scooter, 
 
 To get a local copy up and running, follow these simple steps:
 
-1. Clone the repository:
-   git clone https://github.com/your-username/instant-hunt.git
+1. **Clone the repository:**
+   ```
+   git clone [https://github.com/your-username/instant-hunt.git](https://github.com/Rishi01Prince/Instant_Hunt-2.0.git)
+   ```
 
-css
-Copy code
-2. Navigate to the project directory:
-cd instant-hunt
+2. **Navigate to the project directory:**
+   ```
+   cd instant-hunt
+   ```
 
-markdown
-Copy code
-3. Install dependencies:
-npm install
+3. **Install dependencies:**
+   ```
+   npm install
+   ```
 
-markdown
-Copy code
-4. Start the development server:
-npm start
-
-css
-Copy code
+4. **Start the development server:**
+   ```
+   npm start
+   ```
 
 ## Contributing
 
