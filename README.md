@@ -1,5 +1,59 @@
 # Instant_Hunt-2.0
 
+Instant Hunt is a user-friendly web application designed to facilitate scooter, bike, and car rentals on an hourly or daily basis. This project utilizes the MERN (MongoDB, Express, React, Node.js) stack to create a seamless rental experience for customers.
+
+## Features
+
+- **Easy Reservation**: Users can easily reserve vehicles for both full-day and hourly durations.
+- **Search Functionality**: Engineered a search functionality enabling users to effortlessly add multiple vehicles with customizable duration options.
+- **Flexible Rental Options**: Customers can choose between hourly, half-day, or full-day rental options based on their needs.
+- **Responsive Design**: The application is designed to be responsive, ensuring a seamless experience across different devices and screen sizes.
+
+## Technologies Used
+
+- **Frontend**: React.js
+- **Backend**: Node.js, Express.js
+- **Database**: MongoDB
+- **Other Tools**: Git, GitHub
+
+## Getting Started
+
+To get a local copy up and running, follow these simple steps:
+
+1. Clone the repository:
+   git clone https://github.com/your-username/instant-hunt.git
+
+css
+Copy code
+2. Navigate to the project directory:
+cd instant-hunt
+
+markdown
+Copy code
+3. Install dependencies:
+npm install
+
+markdown
+Copy code
+4. Start the development server:
+npm start
+
+css
+Copy code
+
+## Contributing
+
+Contributions are welcome! If you'd like to contribute to this project, feel free to open an issue or submit a pull request.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Acknowledgements
+
+Special thanks to [contributors](CONTRIBUTORS.md) who helped to improve this project.
+
+
 ## Preview :
 
 ![image](https://github.com/Rishi01Prince/Easy-Reach-2.0/assets/117525650/ac5afad2-843d-4b1f-8392-eb831432fc78)
